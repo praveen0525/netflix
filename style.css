@@ -1,0 +1,71 @@
+.netflix{
+    width: 350px;
+    height: 450px;
+    border: 2px solid black;
+    margin:auto;
+    margin-top: 50px;
+    font-family:  Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    padding: 50px;
+    background: black;
+    color: white;
+}
+.i{
+    margin-top: 10px;
+    margin-top: 10px;
+    width: 300px;
+    height: 40px;
+    font-size: 16px;
+    background-color: black;
+    font: white;
+}
+.ib{
+    background: rgb(255, 29, 29);
+    margin-top: 10px;
+    margin-top: 10px;
+    width: 307px;
+    height: 40px;
+    font-size: 16px;
+    color: white;
+}
+.is{
+    margin-top: 10px;
+    margin-top: 10px;
+    width: 307px;
+    height: 40px;
+    font-size: 16px;
+    color: white;
+    background: rgb(134, 132, 132);
+}
+label{
+    color: grey;
+}
+input{
+    border-radius: 7px;
+    border: 1px solid grey;
+    
+}
+.name{
+    margin-top: 5px;
+    margin-left: 140px;
+}
+.name1{
+    margin-top: 5px;
+    margin-left: 100px
+}
+.l1{
+    color: white;
+}
+.l1,.name1:hover{
+    text-decoration: underline;
+}
+body{
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/9d3533b2-0e2b-40b2-95e0-ecd7979cc88b/a3873901-5b7c-46eb-b9fa-12fea5197bd3/IN-en-20240311-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    margin-left: 20px;
+    margin-top: 20px;
+    height: 80px;
+    width: 250px;
+}
